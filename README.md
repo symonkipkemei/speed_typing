@@ -1,9 +1,10 @@
 ## Faster and more accurate
 
  Typing faster is becoming a necessity in my day-to-day activities. 
- I spend averagely 12 hours a day on my computer either working on architectural projects or leaning coding.
- It is imperative for me to be more productive and spend less time , typing plays an integral part.
- Besides, I am a fast thinker, I need to document and complete tasks before my ideas supersede my productivity
+ I spend averagely 12 hours a day on my computer either working on architectural projects or learning to code.
+ It is imperative that speed typing is essential for high productivity
+
+ Besides, I am a fast thinker, I need to document and complete tasks before my ideas supersede my productivity.
  
 ##  How?
 Starting with basics
